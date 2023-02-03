@@ -1,0 +1,74 @@
+
+.encabezado {
+    background-color: #520808;
+    margin: 0;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    height: 75px; 
+    align-items: center;   
+    
+}
+
+.encabezado .derecha{
+    float: right;
+    margin-right: 2%;
+}
+
+.encabezado .centro{
+    margin-top: 0.3%;
+    text-align: center;
+}
+
+.encabezado .izq{
+    float: left;
+    color: aliceblue;
+    margin-left: 2%;
+    font-size: x-large;
+}
+
+.tabla{
+    margin-bottom: 2%;
+}
+
+.formulario {
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    margin: 2em auto;
+    width: 97%;
+    border-radius: 15px;
+}
+
+.campo {
+    margin: 0.5em 1.5em;
+    padding: 0.5em 0;
+}
+
+
+.campos label {
+    display: block;
+}
+/**
+.row{
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+**/
+.separador{
+    margin-bottom: 15px;
+}
+
+.table{
+    margin-top: 3%;
+}
+
+thead{
+    text-align: center;
+}
+
+tbody{
+    text-align: center;
+}
+
+
+
